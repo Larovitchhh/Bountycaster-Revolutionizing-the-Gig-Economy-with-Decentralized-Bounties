@@ -1,0 +1,9 @@
+Bountycaster operates on a simple yet powerful premise: anyone can post or complete a bounty without needing a dedicated Bountycaster account. Here’s a breakdown of how it works:Posting a BountyTo post a bounty, users tag @bountybot
+ on Farcaster or Twitter/X and include a description of the task, the reward amount (optional), and a deadline (optional). Thanks to AI-powered natural language processing, there’s no need for rigid formatting—Bountycaster’s system parses the post to extract relevant details. For example, a user might post: “0.1 ETH for fixing this issue I’m running into [link] in the next 3 weeks. Please share any relevant background/experience and confirm with me first before working on this @bountybot
+.”
+
+Eligibility to post bounties is currently restricted to:Farcaster: Accounts with a power badge or those created before Farcaster went permissionless (FID #20939 cutoff). Users who don’t meet these criteria can contact @linda
+ for a manual review.
+Twitter/X: Accounts with a verified badge can post bounties up to $1,000, with manual reviews available via @ljxie
+ for exceptions.
+
